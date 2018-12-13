@@ -1,7 +1,9 @@
 # GridViewPager
 ---
-原先的布局代码是写在activity_main中的，我做的也就是将它作为library独立做成一个自定义控件，并优化了图片加载的逻辑而已。一点微小的工作。
-实现的效果图与原来一模一样
+效果图
+---
+![image](https://github.com/mingyouzhu/GridViewPager-android/blob/master/20160913185125647.gif?raw=true)
+
 ###使用：
 ```
 package per.lijuan.meituan;
@@ -55,6 +57,3 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
----
-![image](https://github.com/hkq325800/GridViewPager/blob/master/20160913185125647.gif?raw=true)
