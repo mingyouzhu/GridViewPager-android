@@ -4,7 +4,9 @@
 ---
 ![image](https://github.com/mingyouzhu/GridViewPager-android/blob/master/20160913185125647.gif?raw=true)
 
+---
 使用：
+---
 ```
 package per.lijuan.meituan;
 
