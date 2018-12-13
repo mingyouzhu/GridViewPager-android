@@ -6,9 +6,8 @@
 
 ---
 使用 
-implementation 'com.github.mingyouzhu:GridViewPager-android:v1.1'
 ---
-
+implementation 'com.github.mingyouzhu:GridViewPager-android:v1.1'
 
 ---
 Demo
