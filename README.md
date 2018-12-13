@@ -12,6 +12,26 @@ implementation 'com.github.mingyouzhu:GridViewPager-android:v1.1'
 ---
 Demo
 ---
+
+activity_main.xml
+```
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D4D3D3"
+    android:orientation="vertical">
+
+    <com.kerchin.widget.GridViewPager
+        android:id="@+id/mGridViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:background="#FFFFFF"/>
+
+</LinearLayout>
+```
+
+MainActivity.java
 ```
 package per.lijuan.meituan;
 
