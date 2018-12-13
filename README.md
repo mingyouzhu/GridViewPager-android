@@ -5,7 +5,13 @@
 ![image](https://github.com/mingyouzhu/GridViewPager-android/blob/master/20160913185125647.gif?raw=true)
 
 ---
-使用：
+使用 
+implementation 'com.github.mingyouzhu:GridViewPager-android:v1.1'
+---
+
+
+---
+Demo
 ---
 ```
 package per.lijuan.meituan;
